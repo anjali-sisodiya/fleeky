@@ -19,9 +19,15 @@ Users can browse products, view details, add items to cart, and manage their pro
 - Simple login for admin
 
 ## Technologies Used
-- **Backend:** PHP, Laravel  
+- **Backend:** Laravel8  
 - **Frontend:** HTML, CSS, Bootstrap, jQuery  
 - **Database:** MySQL
+
+## Tools
+- Xampp,Visual Studio
+
+## Web server 
+- Apache
 
 ## Project Purpose
 This project demonstrates an **online clothing store** with a fully functional frontend and backend, showcasing CRUD operations, cart functionality, user authentication, and responsive UI.
